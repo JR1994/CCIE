@@ -1,0 +1,11 @@
+CCIE Routing Notes
+~~~~~~~~~~~~~~~~~~
+:Author: Herminio Hernandez jr.
+:Email: herminio.hernandezjr@gmail.com
+
+Routing Basics
+==============
+
+.TCP/IP Review
+
+
