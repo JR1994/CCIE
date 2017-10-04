@@ -2,10 +2,28 @@ CCIE Routing Notes
 ~~~~~~~~~~~~~~~~~~
 :Author: Herminio Hernandez jr.
 :Email: herminio.hernandezjr@gmail.com
+:Date: 10/03/2017
 
 Routing Basics
-==============
+++++++++++++++
 
-.TCP/IP Review
+.TCP/IP and OSI Compared
+[options="header"]
+|====
+|OSI |TCP/IP
+
+|Application .3+^.^|Application
+
+|Presentation
+
+|Session
+
+|Transport |Host to Host
+
+|Data Link .2+^.^|Network Interface
+
+|Physical
+
+|====
 
 
